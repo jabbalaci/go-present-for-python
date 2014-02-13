@@ -1,0 +1,13 @@
+Using Go's present with Python code snippets (demo)
+13 Feb 2014
+
+Laszlo Szathmary
+jabba.laci@gmail.com
+https://pythonadventures.wordpress.com
+@szathmar
+
+* Hello, Python!
+.play hello.py
+
+* Hello, Go!
+.play hello.go
